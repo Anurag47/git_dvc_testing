@@ -1,7 +1,7 @@
 import pandas as pd
 import os
 
-d = {'col1':[1,2,3],'col2':['a','b','c']}   
+d = {'col1':[1,2,3,4],'col2':['a','b','c','d']}   
 df = pd.DataFrame(data=d)
 
 data_dir = 'data'
